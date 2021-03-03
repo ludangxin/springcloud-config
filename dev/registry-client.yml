@@ -4,4 +4,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8080/eureka/
 
-test: 123
+test: 1234
