@@ -3,3 +3,5 @@ eureka:
     # eureka server的路径
     serviceUrl:
       defaultZone: http://localhost:8080/eureka/
+
+test: 123
