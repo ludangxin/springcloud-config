@@ -4,4 +4,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8080/eureka/
 
-test: '{cipher}AQAz/yd1BJOprt2Gi/Y+qgz0yEWrdjacevlZQS8Mwg5aMAGRNwhnMh9k/2j7PUaWaV6zpmjgzQapn+Xwx3clToD9coxFFHPbn9snVopxv3BRzn0H0gDMN8GDgA7xZsOAFB71F2z+XGpOk8xRGHIp9ltZIqyG2rN5VfuZZhxOHCj7Jox0jVQAc/R9HfyGydb8IwPACKjFt+m/IZfdsKGSBN1sYetA7cGOTqcr/xolusPIGt6MN4qfcUfpWRXwgZ7vYUxZ1Ap6e+8BQD8iBJhhGadbwJnQUtZJfl9x0i1u8el4ha2XUSdA5+62m6a94ZaRKh2SAFdlVIF95m6dtXf+ENZGjemayVHahPlVN4JdYWpH2hpIPzo2XXyJ66JSn8B4A6Q='
+test: '{cipher}58c9b1e8f7663989d31f6bd4ed45eb993f57b4a3cb321ce62bb3dacaae28a44c'
