@@ -1,0 +1,7 @@
+eureka:
+  client:
+    # eureka server的路径
+    serviceUrl:
+      defaultZone: http://localhost:8080/eureka/
+
+test: '{cipher}AQBFwshoe2QIe2MfWy7vlgx8gPc8/Q8MJttNeA48Ehkuy8HpAP5oKildkN//ymtMEy5KZVleIVZjBbtKB7AjB9Va8h04d/xZyrEXFln4A27/oIY9e+Xfz1DAzqxLck1yOzd8FMigJ2BCyAqWCSQIxS9V5c7QIJoD6t99zeFzr6Vfc12HnQkDvUSgcEaoscfrbKuHLr3VVQjdPPUqjjiTaBEIB6sSC2WWsgnx9yzgIfxLs7QRzi6TsfI3GkQrBmSqgm8/DWj0/100izGe65ir1dz0tD7pEZBM3pKYBbImla+Sp5VAwFFcyjrhl6aNE2LUNnaPl6knifWVvH89/0bKWaqxsDbNwzNyeI/iBNFjtHhE6H9xBj0RLozmx0K0NXoVgV4='
