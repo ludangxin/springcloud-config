@@ -4,4 +4,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8080/eureka/
 
-test: {cipher}30cc08b7f18b7c10770e42a179714ab0f9c28e7e690c8fe105d2d126f2d2cade
+test: '{cipher}30cc08b7f18b7c10770e42a179714ab0f9c28e7e690c8fe105d2d126f2d2cade'
